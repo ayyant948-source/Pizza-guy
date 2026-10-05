@@ -1,0 +1,6 @@
+{
+  "name": "Pizza Guy - Lahore",
+  "description": "Authentic, freshly baked pizza, loaded burgers, wraps, and signature deals in Mateen Avenue, Lahore. Order online or via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
